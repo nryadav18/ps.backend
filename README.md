@@ -26,8 +26,10 @@ This repo contains the **Node.js + Express.js** backend powering the Tune Togeth
 
 ### 1. Clone the repo
 
+```bash
 git clone https://github.com/nryadav18/ps.backend.git
 cd ps.backend
+```
 
 ### 2. Install dependencies
 
@@ -37,4 +39,7 @@ npm install
 
 ### 3. Run the server
 
-npm start or nodemon app.js
+```bash
+npm start
+nodemon app.js
+```
